@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c960533-cf19-4cc9-9d25-bb62c45b30d5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6c960533-cf19-4cc9-9d25-bb62c45b30d5" name="Default Changelist" comment="changed pom enforcer">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +46,10 @@
       <updated>1633533055258</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changed pom enforcer" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed pom enforcer" />
   </component>
   <component name="WindowStateProjectService">
     <state x="293" y="12" key="CommitChangelistDialog2" timestamp="1633551082948">
