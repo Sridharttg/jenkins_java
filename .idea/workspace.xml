@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c960533-cf19-4cc9-9d25-bb62c45b30d5" name="Default Changelist" comment="changed pom enforcer">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ttg/app/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ttg/app/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

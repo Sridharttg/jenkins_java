@@ -6,7 +6,7 @@ package com.ttg.app;
 public class App
 {
 
-    private final String message = "Hello World ttg jenkins try! test run";
+    private final String message = "Hello World ttg jenkins try!";
 
     public App() {}
 
